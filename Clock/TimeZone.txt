@@ -1,0 +1,16 @@
+London
+01 00
+00 00
+
+Nur-Sultan
+00 00
+06 00
+
+Bangkok
+00 00
+07 00
+
+Hong Kong
+00 00
+08 00
+
